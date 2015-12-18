@@ -7,7 +7,7 @@ $menu_data = array(
 );
 //foreach
 ?>
-<ul>
+
     <?php
     foreach($menu_data as $cle =>$value)
     {
@@ -15,4 +15,4 @@ $menu_data = array(
     }
     ?>
 
-</ul>
+
